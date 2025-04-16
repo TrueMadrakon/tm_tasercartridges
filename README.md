@@ -1,7 +1,7 @@
 Insert this block of code into items.lua in your ox_inventory!
 ```
 ['tasercart'] = {
-    label = 'Taser Cartrage',
+    label = 'Taser Cartridge',
     weight = 40,
     stack = true,
     consume = 0,
